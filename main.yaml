@@ -3,7 +3,7 @@ name: JavaScript CI
 on:
   push:
     branches:
-      - main
+      - shivademo-learn-CI-CD-1
 
 jobs:
   check-project:
